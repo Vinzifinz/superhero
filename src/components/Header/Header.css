@@ -1,0 +1,23 @@
+header {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+}
+
+header ul {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    padding: 16px;
+}
+
+header li a {
+    text-decoration: none;
+    color: inherit;
+}

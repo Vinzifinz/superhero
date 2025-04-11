@@ -1,0 +1,13 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 32px;
+    justify-content: center;
+    padding: 32px;
+}
+
+.hero-img {
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 34px 34px 34px 34px;
+}
